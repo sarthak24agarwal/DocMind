@@ -1,5 +1,7 @@
 # DocMind — Backend
 
+[![CI](https://github.com/sarthak24agarwal/DocMind/actions/workflows/ci.yml/badge.svg)](https://github.com/sarthak24agarwal/DocMind/actions/workflows/ci.yml)
+
 Multi-tenant Retrieval-Augmented Generation (RAG) backend for DocMind: upload documents into a
 workspace, they get parsed/chunked/embedded in the background, and you chat with them over a
 citation-grounded, streaming endpoint.
